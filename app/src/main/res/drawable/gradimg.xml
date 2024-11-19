@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background shape with gradient -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="90"
+                android:centerColor="#C3353535"
+                android:endColor="#00FD0000"
+                android:startColor="@color/card_grey" />
+            <corners android:radius="13dp" />
+        </shape>
+    </item>
+
+
+
+
+</layer-list>
